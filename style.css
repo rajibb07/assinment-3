@@ -36,3 +36,16 @@
 .discover {
     margin-bottom: 100px;
 }
+
+.footer {
+    background-color: black;
+    padding-top: 55px;
+    height: 300px;
+    align-items: center;
+
+}
+
+.fa-brands {
+    color: white;
+    margin: 10px;
+}
