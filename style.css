@@ -1,0 +1,38 @@
+/*------ slider -----*/
+.female-image {
+    opacity: 0.70;
+}
+
+.carousel-caption {
+    bottom: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.carousel-caption h1 {
+    font-size: 60px;
+    color: black;
+    font-weight: 800;
+}
+
+.carousel-caption p {
+    color: black;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.discover h1 {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.discover p {
+    text-align: center;
+
+
+}
+
+.discover {
+    margin-bottom: 100px;
+}
